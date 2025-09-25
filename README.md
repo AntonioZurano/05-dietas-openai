@@ -133,9 +133,9 @@ Gestiona la conversación y genera la dieta.
 Las contribuciones son bienvenidas. Por favor, sigue estos pasos:
 
 1. Haz fork del proyecto
-2. Crea una nueva rama (`git checkout -b feature/AmazingFeature`)
-3. Haz commit de tus cambios (`git commit -m 'Add: Nueva característica'`)
-4. Haz push a la rama (`git push origin feature/AmazingFeature`)
+2. Crea una nueva rama (\`git checkout -b feature/AmazingFeature\`)
+3. Haz commit de tus cambios (\`git commit -m 'Add: Nueva característica'\`)
+4. Haz push a la rama (\`git push origin feature/AmazingFeature\`)
 5. Abre un Pull Request
 
 ## 📝 Licencia
@@ -156,4 +156,5 @@ Creado por Antonio Zurano Blázquez
 - A todos los que contribuyen al ecosistema de código abierto
 
 ---
+
 ⌨️ con ❤️ por [Antonio Zurano](https://github.com/AntonioZurano)
